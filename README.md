@@ -1,8 +1,8 @@
-### Expense Calculator – Flutter App
+# Expense Calculator – Flutter App
 
 Expense Calculator is a lightweight Flutter application that helps users track and manage their daily expenses. The app is built with a simple screen-based architecture, featuring clean navigation and intuitive UI components. It includes core screens such as Login, Home Dashboard, and Add Transaction, showcasing Flutter fundamentals like StatefulWidget state management, navigation, input handling, form validation, and dynamic UI updates.
 
-## 🚀 Features
+### 🚀 Features
 
 Add new expenses with title, amount, and date
 
@@ -15,8 +15,7 @@ Form validation for safe user input
 Smooth navigation between screens
 
 Clean and responsive UI
-
-## 📁 Project Structure
+### 📁 Project Structure
 lib/
  ├── pages/
  │     ├── AddTransaction.dart      # Add new expense
@@ -26,7 +25,7 @@ lib/
 assets/
  └── font/                          # Custom fonts (if any)
 
-## 🛠️ Tech Used
+### 🛠️ Tech Used
 
 Flutter (Dart)
 
@@ -36,24 +35,24 @@ Navigator for screen routing
 
 Flutter form widgets
 
-## ▶️ Run the App
+### ▶️ Run the App
 
-# Clone the repository:
+#### Clone the repository:
 
 git clone <your-repository-url>
 cd expensecalculator-frontend
 
 
-# Install dependencies:
+#### Install dependencies:
 
 flutter pub get
 
 
-# Run the project:
+#### Run the project:
 
 flutter run
 
-## 📌 Future Enhancements
+### 📌 Future Enhancements
 
 Persistent storage (SharedPreferences / SQLite)
 
