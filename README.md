@@ -43,19 +43,20 @@ Flutter form widgets
 ### ▶️ Run the App
 
 #### Clone the repository:
-
+<pre>
 git clone <your-repository-url>
 cd expensecalculator-frontend
+</pre>
+
 
 
 #### Install dependencies:
-
-flutter pub get
+<pre>flutter pub get</pre>
 
 
 #### Run the project:
 
-flutter run
+<pre>flutter run</pre>
 
 ### 📌 Future Enhancements
 
