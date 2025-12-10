@@ -16,15 +16,20 @@ Smooth navigation between screens
 
 Clean and responsive UI
 ### 📁 Project Structure
-lib/
+<pre> lib/
  ├── pages/
- │     ├── AddTransaction.dart      # Add new expense
- │     ├── home.dart                # Dashboard showing expenses
- │     └── loginpage.dart           # Login screen UI
- ├── main.dart                      # App entry point & routing
-assets/
- └── font/                          # Custom fonts (if any)
+ │     ├── AddTransaction.dart
+ │     ├── home.dart
+ │     └── loginpage.dart
+ ├── main.dart
 
+font/
+ └── Quicksand/
+       ├── static/
+       ├── OFL.txt
+       ├── Quicksand-VariableFont_wght.ttf
+       └── README.txt
+</pre>
 ### 🛠️ Tech Used
 
 Flutter (Dart)
