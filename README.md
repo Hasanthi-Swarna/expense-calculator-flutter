@@ -59,6 +59,8 @@ cd expensecalculator-frontend
 <pre>flutter run</pre>
 
 ### 📌 Future Enhancements
+<img width="607" height="711" alt="Screenshot from 2026-03-17 10-09-13" src="https://github.com/user-attachments/assets/fc4cdf5b-3cfb-49f5-a3a9-5b9b4a4d9dc4" />
+
 
 Persistent storage (SharedPreferences / SQLite)
 
@@ -68,7 +70,7 @@ Visual charts for spending insights
 
 Budget tracking
 
-Dark mode
+
 
 ## 📄 License
 
